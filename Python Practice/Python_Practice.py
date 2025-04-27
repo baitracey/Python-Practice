@@ -45,3 +45,15 @@ quilt_length = 8
 
 print(quilt_width * quilt_length)
 
+# Calculation of squares for:
+# 6x6 quilt
+print(6 ** 4)
+
+# 7x7 quilt
+print(7 ** 2)
+
+# 8x8 quilt
+print(8 ** 2)
+
+
+
