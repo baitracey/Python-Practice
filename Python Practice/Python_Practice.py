@@ -1,3 +1,32 @@
+my_name = "Bailey"
+print("Hello and welcome " + my_name + "!")
+
+# We've defined the variable "meal" here to the name of the food we ate for breakfast!
+meal = "An english muffin"
+
+# Printing out breakfast
+print("Breakfast:")
+print(meal)
+
+# Now update meal to be lunch!
+meal = "An chicken wrap"
+
+# Printing out lunch
+print("Lunch:")
+print(meal)
+
+# Now update "meal" to be dinner
+meal = "Chicken and rice"
+
+# Printing out dinner
+print("Dinner:")
+print(meal)
+
+
+print('This message has mismatched quote marks!')
+print('Abracadabra')
+
+
 # Define the release and runtime integer variables below:
 release_year = 2023
 runtime = 205
