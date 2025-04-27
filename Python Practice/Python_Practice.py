@@ -36,3 +36,12 @@ an_int = 2024
 print(an_int + 7)
 rating_out_of_10 = 7.2
 a_float = 2.8
+
+
+print(25 * 68 + 13 / 28)
+
+quilt_width = 8
+quilt_length = 8
+
+print(quilt_width * quilt_length)
+
