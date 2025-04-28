@@ -101,3 +101,17 @@ And why should I not speak to you?
 """
 
 print(to_you)
+
+my_age = 23
+
+half_my_age = 23 / 2
+
+greeting = """
+hey how are you?
+"""
+
+name = """
+Bailey
+"""
+
+greeting_with_name = greeting + name
